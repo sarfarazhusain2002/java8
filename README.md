@@ -42,7 +42,9 @@ Collections examples are in "collections" package.
 </p>	
 <p>	
 Small introduction to stream API is under "mapFilterReduce" package.
+	
 	MapFilterReduceDemo1.java -
 		It converts collection into stream, map for ages, apply filter for age greater then 25 and print the ages.
+	
 	ReduceMainDemo2.java - 
 </p>
