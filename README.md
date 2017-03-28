@@ -2,6 +2,7 @@
 
 This code provides the Basics of Java 8 like Lambda Expression, Functional Interfaces and new methods added in Collections API.
 
+<p>
 Lambda Expression examples are in "lambda" package. 
 	LambdaExpressionDemo.java - 
 		EXAMPLE 1 : Example using JAVA 7 WAY to add two numbers.
@@ -21,9 +22,9 @@ Lambda Expression examples are in "lambda" package.
 		EXAMPLE 3 : Sum of two Integers using BinaryOperator class and sum method of Integer class.
 		EXAMPLE 4 : Sum of two Integers using BinaryOperator class and sum method of Integer class using Method Reference.
 		EXAMPLE 5 : Max of two Integers using BinaryOperator class and max method of Integer class.
-		EXAMPLE 6 : Max of two Integers using BinaryOperator class and max method of Integer class using Method Reference.	
-	
-	
+		EXAMPLE 6 : Max of two Integers using BinaryOperator class and max method of Integer class using Method Reference.		
+</p>
+<p>	
 Collections examples are in "collections" package.
 	CollectionsDemo1.java -
 		EXAMPLE 1 : Iterate over collection using JAVA 7 WAY.
@@ -36,9 +37,10 @@ Collections examples are in "collections" package.
 		EXAMPLE 1 : Iterate over collection using JAVA 8 Lambda Expression.
 		EXAMPLE 2 : Using getOrDefault in collection.
 		EXAMPLE 3 : Using putIfAbsent in collection.
-	
-	
+</p>	
+<p>	
 Small introduction to stream API is under "mapFilterReduce" package.
 	MapFilterReduceDemo1.java -
 		It converts collection into stream, map for ages, apply filter for age greater then 25 and print the ages.
 	ReduceMainDemo2.java - 
+</p>
