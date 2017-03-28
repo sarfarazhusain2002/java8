@@ -1,4 +1,4 @@
-# Java 8 Basics, Lambda Expression, Collections new methods
+# Java 8 - Basics of Lambda Expression, Collections new methods
 
 This code provides the Basics of Java 8 like Lambda Expression, Functional Interfaces and new methods added in Collections API.
 
