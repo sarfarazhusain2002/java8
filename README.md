@@ -3,7 +3,8 @@
 This code provides the Basics of Java 8 like Lambda Expression, Functional Interfaces and new methods added in Collections API.
 
 <p>
-Lambda Expression examples are in "lambda" package. 
+Lambda Expression examples are in "lambda" package.
+ 
 	LambdaExpressionDemo.java - 
 		EXAMPLE 1 : Example using JAVA 7 WAY to add two numbers.
 		EXAMPLE 2 : Example using JAVA 8 Lambda expression to add two numbers.
@@ -26,6 +27,7 @@ Lambda Expression examples are in "lambda" package.
 </p>
 <p>	
 Collections examples are in "collections" package.
+
 	CollectionsDemo1.java -
 		EXAMPLE 1 : Iterate over collection using JAVA 7 WAY.
 		EXAMPLE 2 : Iterate over collection using JAVA 8 Lambda Expression.
